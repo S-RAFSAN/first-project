@@ -27,5 +27,5 @@ export default [
     },
   },
   'eslint:recommended',
-    "prettier"
+  'prettier',
 ];
