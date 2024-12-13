@@ -1,5 +1,6 @@
 import { realpathSync } from 'fs';
-import { StudentModel } from '../student.model';
+// import { StudentModel } from '../student.model';
+import {ProductModel} from '../Products/product.model'
 import { Student } from './student.interface';
 import { get } from 'http';
 
